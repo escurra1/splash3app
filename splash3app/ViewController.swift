@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("Splash3")
         print("Other")
-<<<<<<< HEAD
         print("3")
     }
 
@@ -26,9 +25,6 @@ class ViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-=======
-        
->>>>>>> rama2
     }
 
 
