@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("Splash3")
         print("Other")
+        print("3")
     }
 
     override func didReceiveMemoryWarning() {
